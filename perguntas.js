@@ -1,6 +1,6 @@
 criaCartao(
 
-    'matemática',
+    'Matemática',
     
     'Qual é a fórmula de Pitágoras, e quando ela deve ser usada?',
     
@@ -9,7 +9,7 @@ criaCartao(
     
     criaCartao(
     
-    'matemática',
+    'Matemática',
     
     'Quais são os tipos de triângulos, conforme a medida dos lados?',
     
@@ -19,7 +19,7 @@ criaCartao(
     
     criaCartao(
     
-    'matemática',
+    'Matemática',
     
     'Quais são os tipos de triângulos, conforme a medida dos ângulos?',
     
@@ -28,7 +28,7 @@ criaCartao(
     
     criaCartao(
     
-    'matemática',
+    'Matemática',
     
     'Qual é a fórmula de um arranjo simples e quando deve ser utilizada?',
     
@@ -118,7 +118,7 @@ criaCartao(
     
     criaCartao(
     
-    'geografia',
+    'Geografia',
     
     'Qual o nome do modelo japonês de produção, e que conta com ajuda de automação, mais conhecido como “just-in-time”?',
     
@@ -127,16 +127,16 @@ criaCartao(
     
     criaCartao(
     
-    'geografia',
+    'Geografia',
     
-    'O processo de industrialização no Brasil foi iniciado de maneira mais consolidada em que momento da história?',
+    'O processo de industrialização no Brasil foi iniciado de maneira mais consolidada em que momento da História?',
     
     'No Governo Vargas, com criação de empresas com infraestrutura.',
     )
     
     criaCartao(
     
-    'história',
+    'História',
     
     'Qual foi o estopim para o início da segunda guerra mundial?.',
     
@@ -145,7 +145,7 @@ criaCartao(
     
     criaCartao(
     
-    'história',
+    'História',
     
     'o que foram os conhecidos nomes Hiroshima e Nagasaki?',
     
@@ -154,7 +154,7 @@ criaCartao(
     
     criaCartao(
     
-    'história',
+    'História',
     
     'Qual foi o motivo do ataque dos Estados Unidos ao Japão na segunda guerra mundial?',
     
@@ -163,7 +163,7 @@ criaCartao(
     
     criaCartao(
     
-    'história',
+    'História',
     
     'O que foi a guerra fria? ',
     
@@ -172,7 +172,7 @@ criaCartao(
     
     criaCartao(
     
-    'história',
+    'História',
     
     'Qual foi o motivo da vinda dos portugueses ao Brasil na época da colonização?',
     
