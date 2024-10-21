@@ -32,3 +32,10 @@ header{
 header a{
     color: var(--preto);
 }
+
+#container{
+    display: grid;
+    gap: 2rem;
+    margin: 2rem;
+    
+}
