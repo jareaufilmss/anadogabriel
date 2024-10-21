@@ -21,6 +21,18 @@ footer{
     color: var(--preto)
 }
 
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: var(--branco);
+    padding: 2rem;
+}
+
+header a{
+    color: var(--preto);
+}
+
 #container{
     display: flex;
     flex-wrap: wrap;
