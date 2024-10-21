@@ -55,4 +55,5 @@ header a{
     background-color: var(--cartao-verso);
     padding: 2rem;
     text-align: center;
+    display: none;
 }
